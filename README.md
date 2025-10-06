@@ -1,16 +1,28 @@
 ## Hi there 👋
+#  I'm Muhammad Ali!
 
-<!--
-**muhammad-ali301/muhammad-ali301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 A passionate Python developer and tech enthusiast.  
+I love building automation tools, virtual assistants, and small games.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Languages & Tools
+- 🐍 Python
+- ⚙️ Git / GitHub
+- 🌐 HTML, CSS
+- 🧮 VS Code
+
+---
+
+### 💼 Projects
+Here are some of my favorite projects:
+- 🤖 [Virtual Assistant](https://github.com/muhammad-ali301/Virtual-assistant-)
+- 🧮 [Python Calculator](https://github.com/muhammad-ali301/python-Calculator)
+- 🎮 [Snake Water Gun Game](https://github.com/muhammad-ali301/Snake-Water-Gun_game)
+- 🔢 [Guess the Number](https://github.com/muhammad-ali301/Guess-No)
+
+---
+
+### 📫 Connect with Me
+- 💻 GitHub: [github.com/muhammad-ali301](https://github.com/muhammad-ali301)
+- ✉️ Email: alimuhd092@example.com
